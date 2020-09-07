@@ -2,6 +2,7 @@
 2. Cucumber
 3. Bampoo
 4. Rest API
+5. Mobile Automation
 
 
 
