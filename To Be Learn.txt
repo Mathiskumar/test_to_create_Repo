@@ -3,6 +3,7 @@
 3. Bampoo
 4. Rest API
 5. Mobile Automation
+6. Install Appium to learn Mobile Automation.
 
 
 
